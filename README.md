@@ -20,7 +20,7 @@ Visualization of the transformed data from excel to create a dashboard featuring
   3. High Risk Deliveries (no. of high-risk (prone damage during shipping) deliveries)
 
 Visualizations in the dashboard:
-  1. Bar Graph (showing the distribution of deliveries according to their handling instructions)
+  1. Bar Graph (showing the average delay across various delivery types (according to handling instructions))
   2. Donut Chart (showing the distribution of deliveries according to the risk level (high-risk vs standard))
 
 Apart from this sliders have are also present to further highlight deliveries using a specific shipping mode and delivery status.

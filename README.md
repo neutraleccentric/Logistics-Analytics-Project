@@ -26,4 +26,4 @@ Visualizations in the dashboard:
 Apart from this sliders have are also present to further highlight deliveries using a specific shipping mode and delivery status.
 
   Below is a screenshot of the Dashboard:
-<img width="1122" height="627" alt="image" src="https://github.com/user-attachments/assets/1e564a65-9d2c-41c1-8c9b-cd462fb022a3" />
+<img width="1120" height="628" alt="image" src="https://github.com/user-attachments/assets/8155d2cb-a2ed-4735-b37f-4b01342ded79" />

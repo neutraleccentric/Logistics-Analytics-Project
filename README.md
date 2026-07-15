@@ -26,4 +26,5 @@ Visualizations in the dashboard:
 Apart from this sliders have are also present to further highlight deliveries using a specific shipping mode and delivery status.
 
   Below is a screenshot of the Dashboard:
-<img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/06283396-d43c-4949-af53-eee6bfa3e99c" />
+[<img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/06283396-d43c-4949-af53-eee6bfa3e99c" />
+](https://github.com/neutraleccentric/Logistics-Analytics-Project)
